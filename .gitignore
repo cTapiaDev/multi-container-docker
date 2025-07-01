@@ -1,0 +1,12 @@
+.dockerignore
+.env
+*.log
+*.sqlite3
+*.db
+
+node_modules/
+venv/
+__pycache__/
+*.pyc
+htmlcov/
+target/
